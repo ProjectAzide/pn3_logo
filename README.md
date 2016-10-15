@@ -2,7 +2,7 @@
 
 [Azide](https://en.wikipedia.org/wiki/Azide) is a chemical compound, consisting of three nitrogen atoms in a linear structure, connected by double bonds.
 
-To be absolutely clear: _Project Azide_ does not actually use the chemical azide in any way; it's just a word in our [codename](https://en.wikipedia.org/wiki/Code_name#Project_code_name).
+To be perfectly clear: _Project Azide_ does not use the actual chemical azide in any way; it's just our [code name](https://en.wikipedia.org/wiki/Code_name#Project_code_name).
 
 Azide's chemical formula is N<sub>3</sub>, hence the official abbreviation of _Project Azide_ is __PN3__
 
